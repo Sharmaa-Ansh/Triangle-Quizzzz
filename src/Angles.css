@@ -1,0 +1,39 @@
+.Angles {
+  border: 3px solid #7530ea;
+  border-radius: 1rem;
+  max-width: 60%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #e4d9ff;
+}
+
+.entry {
+  display: flex;
+  margin-bottom: 1rem;
+  border-radius: 1rem;
+  width: min-content;
+  border: 1px solid #7530ea;
+}
+
+.buton {
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  width: min-content;
+  background-color: #7530ea;
+  color: white;
+  border: none;
+  font-size: 1.1rem;
+  padding: 0.3rem 0.7rem;
+}
+
+.verdict {
+  margin-bottom: 1rem;
+}
+
+.labelo {
+  margin-bottom: 0.6rem;
+  color: #7530ea;
+}

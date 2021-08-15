@@ -1,0 +1,56 @@
+.home {
+  font-family: sans-serif;
+  text-align: center;
+  border: 3px solid #f34c2b;
+  border-radius: 1rem;
+  max-width: 50%;
+  margin: auto;
+  background-color: #ffd6cf;
+}
+
+.buttons {
+  margin: 0.5rem 0.5rem 1rem 1rem;
+  border-radius: 0.5rem;
+  padding: 0.2rem 0.5rem;
+  font-size: 0.9rem;
+  background-color: #f34c2b;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.ques-container {
+  display: flex;
+  justify-content: flex-start;
+  font-size: 1.2rem;
+  margin-left: 1rem;
+  color: black;
+}
+
+.ques-ans-container {
+  max-width: 90%;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.verdict-btn {
+  width: min-content;
+  align-self: center;
+  margin-bottom: 1.5rem;
+  margin-top: 1rem;
+  border-radius: 1rem;
+  padding: 0.4rem 0.8rem;
+  font-size: 1rem;
+  margin: auto;
+  background-color: #f34c2b;
+  border: none;
+  color: white;
+}
+
+.verdict {
+  margin: 1rem 1rem;
+  font-size: 1.1rem;
+}
